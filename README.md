@@ -1,0 +1,1 @@
+In questo esercizio viene mostrato come opera un filtro adattato, dallinglese matched filter, quando sono noti il segnale prodotto $w(n)$ e l'eco che esso produce $s(n)$, dove $n$ fa riferimento ad un ennesimo intervallo di tempo discretizzato.
